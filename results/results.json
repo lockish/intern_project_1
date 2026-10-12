@@ -1,0 +1,8 @@
+{
+  "n_rows": 10000,
+  "churn_rate": 0.2037,
+  "cv_auc_mean": 0.8662,
+  "cv_auc_std": 0.007,
+  "high_risk_at_0.3": 2056,
+  "high_risk_at_0.5": 1248
+}

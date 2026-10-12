@@ -1,0 +1,12 @@
+,mean_abs_shap
+NumOfProducts,0.7804
+Age,0.7353
+IsActiveMember,0.3336
+Geography_Germany,0.2361
+Gender_Male,0.2032
+Balance,0.1806
+EstimatedSalary,0.0646
+CreditScore,0.0438
+Tenure,0.0177
+HasCrCard,0.0166
+Geography_Spain,0.0112
